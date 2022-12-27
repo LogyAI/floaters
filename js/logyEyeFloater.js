@@ -8,8 +8,8 @@ height: 100px;
 width: 100px;
 ">
 <div id="scan"></div>
-<img style="position: absolute;left:11px;top: 36px;width: 75.41px" src="https://github.com/Debaprasad-dez/logyFloater/blob/main/eye.png?raw=true" alt="">
-<img src="https://raw.githubusercontent.com/Debaprasad-dez/logyFloater/013405fbb4c7fb09bdeebc1968615480f8d02c36/floater3.svg" alt="">
+<img style="position: absolute;left:11px;top: 36px;width: 75.41px" src="/asset/img/eye.png" alt="">
+<img src="/asset/img/floater3.svg" alt="">
 <style>
 #scan{
     position: absolute;
@@ -42,9 +42,9 @@ width: 100px;
 </div>
 </a>
 <div id="floaterInstructions" style="position:absolute;height:100px;width:250px;top:50vh;left: 108px;">
-<img src="https://raw.githubusercontent.com/Debaprasad-dez/logyFloater/c15c1666a5a4532a346f22b9b704bc6f50035796/instructions.svg" alt="">
+<img src="/asset/img/instructions.svg" alt="">
 <button id="btnCross" style="position: absolute;background: none;border: none;cursor: pointer;">
-    <img  src="https://raw.githubusercontent.com/Debaprasad-dez/logyFloater/c15c1666a5a4532a346f22b9b704bc6f50035796/cross.svg" alt="">
+    <img  src="/asset/img/cross.svg" alt="">
 </button>
 </div>
 `
