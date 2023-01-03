@@ -8,8 +8,8 @@ height: 100px;
 width: 100px;
 ">
 <div id="scan"></div>
-<img style="position: absolute;left:11px;top: 59px;" src="/floaters/asset/img/mouth.png" alt="">
-<img src="/floaters/asset/img/floater2.svg" alt="">
+<img style="position: absolute;left:11px;top: 59px;" src="https://logy.ai/floaters/asset/img/mouth.png" alt="">
+<img src="https://logy.ai/floaters/asset/img/floater2.svg" alt="">
 <style>
 #scan{
     position: absolute;
@@ -42,9 +42,9 @@ width: 100px;
 </div>
 </a>
 <div id="floaterInstructions" style="position:absolute;height:100px;width:250px;top:50vh;left: 108px;">
-<img src="/floaters/asset/img/instructions.svg" alt="">
+<img src="https://logy.ai/floaters/asset/img/instructions.svg" alt="">
 <button id="btnCross" style="position: absolute;background: none;border: none;cursor: pointer;">
-    <img  src="/floaters/asset/img/cross.svg" alt="">
+    <img  src="https://logy.ai/floaters/asset/img/cross.svg" alt="">
 </button>
 </div>
 `
